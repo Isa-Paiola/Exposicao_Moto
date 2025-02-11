@@ -103,10 +103,12 @@
 
 /* Benefits section */
 #key-benefits h2 {
-  background-color: var(--text-secondary);
-  align-items: center;
-  padding: 2em;
- font-weight: 500;
+    background-color: #5d5d5d;
+    align-items: center;
+    padding: 2em;
+    font-weight: 500;
+    color: #fff;
+    
 }
 
 .benefits{
